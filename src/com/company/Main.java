@@ -43,14 +43,6 @@ public class Main {
     }
     public static double Minus(double a , double b){
         double c = a-b ;
-//        if(a>b){
-//                c= a-b;
-//    }
-//        else if (a<b){
-//                c =b-a;
-//    }
-//        else{c=a-b;}
-
         return c;
     }
     public static double Multi(double a , double b){
